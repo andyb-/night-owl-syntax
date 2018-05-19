@@ -1,7 +1,7 @@
 {
   "name": "night-owl-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "night own syntax inspired by https://github.com/sdras/night-owl-vscode-theme",
   "keywords": [
     "syntax",
