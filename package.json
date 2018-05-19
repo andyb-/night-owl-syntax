@@ -2,7 +2,7 @@
   "name": "night-owl-theme-syntax",
   "theme": "syntax",
   "version": "0.3.0",
-  "description": "night own syntax inspired by https://github.com/sdras/night-owl-vscode-theme",
+  "description": "Dark syntax color scheme based on the Night Owl VS Code theme. (currently working for jsx only)",
   "keywords": [
     "syntax",
     "theme"
