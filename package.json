@@ -2,12 +2,12 @@
   "name": "night-owl-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "night own syntax inspired by https://github.com/sdras/night-owl-vscode-theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/night-owl-syntax",
+  "repository": "https://github.com/andyb-/night-owl-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
